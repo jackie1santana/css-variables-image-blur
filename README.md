@@ -1,4 +1,4 @@
-# css-variables-image-blur
+# css-variables-image-blur TypeScript
 making the css variables changed based on real time javascript behavior in vanilla ts
 
 the reason why I chose css variables oppose to sass variables is because you cannnot dynamically change sass variables at compile time.
